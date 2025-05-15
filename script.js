@@ -121,7 +121,7 @@ Simbolismul se naște din dorul de absolut, dintr-o neliniște interioară care 
   concluzie: {
     title: "Concluzia",
     text: `<p>Simbolismul este o punte între real și imaginar, între vizibil și invizibil, o călătorie lirică spre adâncurile sufletului omenesc. Prin muzicalitatea versului, sugestie și simboluri rafinate, această mișcare artistică a redat lumii nu doar frumusețea estetică, ci și neliniștile, dorurile și idealurile unei epoci. Într-o lume din ce în ce mai pragmatică, simbolismul rămâne o chemare la introspecție, la visare și la redescoperirea profunzimii în cele mai fine nuanțe ale cuvântului.
-  </p>`,
+  </p>`
     // image: "res/lirica.png"
   }
 };
