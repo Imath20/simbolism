@@ -117,6 +117,12 @@ Simbolismul se naște din dorul de absolut, dintr-o neliniște interioară care 
     title: "Reflexia poeziei în lirica bacoviană",
     text: `<p> Lirica lui Bacovia este expresia unei existențe apăsătoare, fără iluzii. Poeziile sale nu strigă – șoptesc. Ele descriu o lume cenușie, în care sufletul obosește, iubește în tăcere, moare pe dinăuntru. Este o poezie a frigului, a golului, dar și a sincerității. Bacovia a făcut din spleen o artă. </p>`,
     image: "res/lirica.png"
+  },
+  concluzie: {
+    title: "Concluzia",
+    text: `<p>Simbolismul este o punte între real și imaginar, între vizibil și invizibil, o călătorie lirică spre adâncurile sufletului omenesc. Prin muzicalitatea versului, sugestie și simboluri rafinate, această mișcare artistică a redat lumii nu doar frumusețea estetică, ci și neliniștile, dorurile și idealurile unei epoci. Într-o lume din ce în ce mai pragmatică, simbolismul rămâne o chemare la introspecție, la visare și la redescoperirea profunzimii în cele mai fine nuanțe ale cuvântului.
+  </p>`,
+    // image: "res/lirica.png"
   }
 };
 
